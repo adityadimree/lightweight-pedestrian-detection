@@ -1,0 +1,23 @@
+#Dataset files
+bdd100k/
+bdd_pedestrian/images/
+bdd_pedestrian/labels/
+
+#Python
+__pycache__/
+*.pyc
+yolo_env/
+
+#Original model
+yolov8n.pt
+yolov8n/
+
+#Training runs
+runs/
+
+#Temporary files
+.DS_Store
+
+#Personal
+awesome notes/
+data frames is a dictionary.md

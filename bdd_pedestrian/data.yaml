@@ -1,0 +1,7 @@
+path: /home/adu/Documents/bdd100k_project/bdd_pedestrian
+train: images/train
+val: images/val
+
+nc: 1
+names:
+  0: person
